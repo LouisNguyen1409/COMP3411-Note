@@ -1,1 +1,1 @@
-COMP 3411 - AI Course
+**COMP 3411 - AI Course**
