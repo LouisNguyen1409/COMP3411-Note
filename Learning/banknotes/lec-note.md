@@ -1,0 +1,1 @@
+[**Lecture Note**](https://cs50.harvard.edu/ai/2024/notes/4/)
